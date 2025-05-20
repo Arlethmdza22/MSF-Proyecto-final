@@ -1,5 +1,4 @@
 """
-Práctica 3: Sistema cardiovascular
 
 Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
