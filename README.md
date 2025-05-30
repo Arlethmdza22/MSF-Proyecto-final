@@ -6,10 +6,10 @@ Perez Chavez Marco Antonio
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20211984@tectijuana.edu.mx
 
-#Objetivo general
+## Objetivo general
 Diseñar un controlador que permita formular tratamiento para la diabetes tipo 2. Siendo el control un individuo con absorcion de glucosa y produccion de insulina correcta, y el caso un individuo con baja produccion de insulina y altos niveles de glucosa en los tejidos del cuerpo.
 
-##Actividades
+## Actividades
 1. Calcular analiticamente la funcion de transferencia del sistema de diabetes tipo 2.
 2. Establecer el modelo de ecuaciones integro-diferenciales.
 3. Determinar el error en estad estacionario y la estabilidad del sistema en lazo abierto.
