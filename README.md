@@ -1,4 +1,4 @@
-# Modelado de Sistemas Fisiológicos. Proyecto final. Diabetes tipo 2 [Mendoza20211984] [Perez19212423]
+# Modelado de Sistemas Fisiológicos. Diabetes tipo 2 [Mendoza20211984] [Perez19212423]
 
 ## Autor
 Mendoza Perez Arleth Alejandra 
