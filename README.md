@@ -1,7 +1,8 @@
 # Modelado de Sistemas Fisiológicos. Diabetes tipo 2 [Mendoza20211984] [Perez19212423]
 
-## Autor
+## Autores
 Mendoza Perez Arleth Alejandra 
+
 Perez Chavez Marco Antonio
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20211984@tectijuana.edu.mx
